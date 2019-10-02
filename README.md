@@ -1,0 +1,1 @@
+This is comparing tool. It compares huge data simultaneously.
