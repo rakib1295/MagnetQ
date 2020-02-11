@@ -140,7 +140,6 @@
   <ItemGroup>
     <Resource Include="Images\a.png" />
     <Resource Include="Images\b.png" />
-    <Resource Include="Images\BTCL-logo.png" />
     <Resource Include="Images\c.png" />
     <Resource Include="Images\d.png" />
     <Resource Include="Images\Qlogo_icon.ico" />
@@ -185,6 +184,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\BTCL-logo2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

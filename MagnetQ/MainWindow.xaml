@@ -45,7 +45,7 @@
                 <RowDefinition/>
                 <RowDefinition/>
             </Grid.RowDefinitions>
-            <Image x:Name="logo_img" Source="Images/BTCL-logo.png" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" HorizontalAlignment="Center"  VerticalAlignment="Top" />
+            <Image x:Name="logo_img" Source="Images/BTCL-logo2.png" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" HorizontalAlignment="Center"  VerticalAlignment="Top" />
             <Button x:Name="CheckLog_btn" Grid.Row="1" Grid.Column="4" HorizontalAlignment="Right" Content="Check Status" Click="CheckLog_btn_Click" Margin="10,5" Width="auto" Height="auto"/>
             <Button x:Name="LoadExcel_btn" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" Content="Load Excel Data"  MouseEnter="LoadBtn_MouseEnter_1"  MouseLeave="LoadBtn_MouseLeave_1" Click="LoadExcel_btn_Click"  Margin="5,5" Width="auto" Height="auto"/>
 

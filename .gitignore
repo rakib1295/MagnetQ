@@ -1,3 +1,6 @@
 .vs
 /MagnetQ/bin
 /MagnetQ/obj
+/MagnetQ/MagnetQ*
+/MagnetQ/publish
+/MagnetQ/MagnetQ_TemporaryKey
